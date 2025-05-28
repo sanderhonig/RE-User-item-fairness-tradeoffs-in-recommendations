@@ -1,0 +1,8 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore all .json files
+*.json
+
+# Ignore all .pickle files
+*.pickle
