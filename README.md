@@ -2,7 +2,17 @@
 
 
 ## Overview
-This repository houses the source code for a research project aimed at exploring user-item fairness tradeoffs in recommendation systems. The project encompasses both theoretical frameworks and empirical evaluations to assess and improve fairness in recommendations.
+This repository houses the source code for a research project aimed at exploring user-item fairness tradeoffs in recommendation systems. The project encompasses both theoretical frameworks and empirical evaluations to assess and improve fairness in recommendations. 
+
+Specifically, this project serves as a reproducability study the NeurIPS 2024 paper, [User-item fairness tradeoffs in recommendations](https://neurips.cc/virtual/2024/poster/94638). Our primary goal is to replicate the empirical findings of this paper. 
+
+Beyond replication, the original research is extended in two directions:
+1. We verify the generalizability of their findings on a different dataset ([Amazon books reviews](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)).
+2. We analyze the tradeoffs when recommending multiple items to a user instead of a single item.
+
+The original codebase can be found at [https://github.com/vschiniah/ArXiv_Recommendation_Research](https://github.com/vschiniah/ArXiv_Recommendation_Research). 
+
+For more details about this study, see our paper submission on Openreview: [A reproducibility study of “User-item fairness tradeoffs in recommendations”](https://openreview.net/forum?id=vltzxxhzLU).
 
 ## Repository Structure
 - **./Amazon/amazon_exp_preparation**: Preparation for experiments, creating pickle files for tfidf matrices and pickle files for reviewers for Amazon Books Reviews dataset.
