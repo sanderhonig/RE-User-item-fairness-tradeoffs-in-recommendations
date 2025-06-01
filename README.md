@@ -12,7 +12,7 @@ Beyond replication, the original research is extended in two directions:
 
 The original codebase can be found at [https://github.com/vschiniah/ArXiv_Recommendation_Research](https://github.com/vschiniah/ArXiv_Recommendation_Research). 
 
-For more details about this study, see our paper submission on Openreview: [A reproducibility study of “User-item fairness tradeoffs in recommendations”](https://openreview.net/forum?id=vltzxxhzLU).
+For more details about this study, see our paper submission on OpenReview: [A reproducibility study of “User-item fairness tradeoffs in recommendations”](https://openreview.net/forum?id=vltzxxhzLU).
 
 ## Repository Structure
 - **./Amazon/amazon_exp_preparation**: Preparation for experiments, creating pickle files for tfidf matrices and pickle files for reviewers for Amazon Books Reviews dataset.
