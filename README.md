@@ -4,7 +4,7 @@
 ## Overview
 This repository houses the source code for a research project aimed at exploring user-item fairness tradeoffs in recommendation systems. The project encompasses both theoretical frameworks and empirical evaluations to assess and improve fairness in recommendations. 
 
-Specifically, this project serves as a reproducability study the NeurIPS 2024 paper, [User-item fairness tradeoffs in recommendations](https://neurips.cc/virtual/2024/poster/94638). Our primary goal is to replicate the empirical findings of this paper. 
+Specifically, this project serves as a reproducability study of the NeurIPS 2024 paper, [User-item fairness tradeoffs in recommendations](https://neurips.cc/virtual/2024/poster/94638). Our primary goal is to replicate the empirical findings of this paper. 
 
 Beyond replication, the original research is extended in two directions:
 1. We verify the generalizability of their findings on a different dataset ([Amazon books reviews](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)).
